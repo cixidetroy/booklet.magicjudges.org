@@ -1,2 +1,3 @@
-# booklet.magicjudges.org
-booklet judges
+# Judge Booklet Generator
+
+http://booklet.magicjudges.org/
